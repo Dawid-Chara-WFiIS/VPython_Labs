@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46416a39-ffb5-495b-b179-fe76e7bf5b50" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="46416a39-ffb5-495b-b179-fe76e7bf5b50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VPython_Labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VPython_Labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,16 @@
   </component>
   <component name="ProjectId" id="1RvXxOXWcFxfShMXApmMDuSJIKf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -25,15 +37,39 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="VPython_Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -52,6 +88,46 @@
       <workItem from="1571158587173" duration="4058000" />
       <workItem from="1571163897582" duration="97000" />
       <workItem from="1571344131298" duration="722000" />
+      <workItem from="1571759819111" duration="51000" />
+      <workItem from="1571759890578" duration="5011000" />
+      <workItem from="1571765126263" duration="208000" />
+      <workItem from="1572368663849" duration="5875000" />
+      <workItem from="1572435853351" duration="12000" />
+      <workItem from="1572435866157" duration="112000" />
+      <workItem from="1572956718722" duration="8000" />
+      <workItem from="1572973677095" duration="7607000" />
+      <workItem from="1572982750075" duration="2011000" />
+      <workItem from="1572984988688" duration="704000" />
+      <workItem from="1573220412098" duration="327000" />
+      <workItem from="1573578301579" duration="5672000" />
+      <workItem from="1573584157818" duration="121000" />
+      <workItem from="1573584563068" duration="1070000" />
+      <workItem from="1573586922136" duration="2522000" />
+      <workItem from="1573763423516" duration="17000" />
+      <workItem from="1573896305959" duration="703000" />
+      <workItem from="1574097216088" duration="247000" />
+      <workItem from="1574183322710" duration="1401000" />
+      <workItem from="1574184876955" duration="3741000" />
+      <workItem from="1574414552349" duration="618000" />
+      <workItem from="1574787753522" duration="7113000" />
+      <workItem from="1574797958588" duration="77000" />
+      <workItem from="1574892835508" duration="181000" />
+      <workItem from="1575028131162" duration="8000" />
+      <workItem from="1575392654657" duration="7126000" />
+      <workItem from="1575415818589" duration="3000" />
+      <workItem from="1575415855905" duration="63000" />
+      <workItem from="1576083717349" duration="8367000" />
+      <workItem from="1576160252157" duration="259000" />
+      <workItem from="1576161892113" duration="55000" />
+      <workItem from="1576602149606" duration="7812000" />
+      <workItem from="1576613169037" duration="2772000" />
+      <workItem from="1576952171835" duration="20000" />
+      <workItem from="1577110501479" duration="170000" />
+      <workItem from="1577418686664" duration="16000" />
+      <workItem from="1579021400503" duration="7712000" />
+      <workItem from="1579103362151" duration="301000" />
+      <workItem from="1579120393901" duration="39000" />
+      <workItem from="1579193220458" duration="526000" />
     </task>
     <servers />
   </component>
@@ -63,10 +139,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="357" width="567" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576602164648">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="705" y="357" width="567" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1576602164648" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577418704750">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577418704750" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1576088013375">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/67.27.1853.1053@67.27.1853.1053" timestamp="1576088013375" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579193220817">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579193220817" />
+    <state x="553" y="342" width="672" height="678" key="search.everywhere.popup" timestamp="1579022060145">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="553" y="342" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579022060145" />
   </component>
 </project>
